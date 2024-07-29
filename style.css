@@ -10,10 +10,12 @@
 .main-span1{
     position: relative;
     left: -30%;
+    top: -20%;
 }
 .main-span2{
     position: relative;
     right: -30%;
+    top: -20%;
 }
 .main-img3{
     width: 100%;
