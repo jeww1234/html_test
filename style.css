@@ -28,11 +28,19 @@
     display: flex;
     justify-content: center;
 }
+.main-img7{
+   width: 25%;
+}
 .main-img7-box{
     display: flex;
+    justify-content: center;
     margin: 0px;
     padding: 0px;
 }
 .main-img8-box{
     display: flex;
+    justify-content: center;
+}
+.arrow{
+    padding: 0px;
 }
